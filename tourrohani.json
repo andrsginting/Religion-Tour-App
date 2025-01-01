@@ -1,0 +1,554 @@
+{
+  "rundown": {
+    "day1": {
+      "activity1": {
+        "time": "03:00 - 03:30",
+        "description": "Berkumpul di Terminal International 3 Bandara Soekarno-Hatta untuk briefing keberangkatan."
+      },
+      "activity2": {
+        "time": "03:30 - 05:30",
+        "description": "Proses check-in bagasi, pemeriksaan imigrasi, dan boarding."
+      },
+      "activity3": {
+        "time": "06:00 - 14:00 (waktu Jakarta)",
+        "description": "Penerbangan menuju TEL AVIV (ISRAEL) dengan transit."
+      },
+      "activity4": {
+        "time": "14:00 - 19:00 (waktu lokal)",
+        "description": "Melanjutkan penerbangan menuju Bandara Ben Gurion, TEL AVIV."
+      }
+    },
+    "day2": {
+      "activity1": {
+        "time": "12:00 - 13:00",
+        "description": "Tiba di Bandara Ben Gurion, proses imigrasi dan pengambilan bagasi."
+      },
+      "activity2": {
+        "time": "13:00 - 14:00",
+        "description": "Makan siang di restoran lokal di Tel Aviv."
+      },
+      "activity3": {
+        "time": "14:00 - 16:00",
+        "description": "Perjalanan menuju Haifa."
+      },
+      "activity4": {
+        "time": "16:00 - 17:30",
+        "description": "Wisata di Bahai Garden, taman termahal dunia dan situs warisan UNESCO, serta Stella Maris, tempat Nabi Elia bersembunyi setelah mengalahkan nabi Baal."
+      },
+      "activity5": {
+        "time": "17:30 - 19:00",
+        "description": "Perjalanan menuju Tiberias."
+      },
+      "activity6": {
+        "time": "19:00 - 20:00",
+        "description": "Check-in di hotel, pembagian kamar, dan persiapan pribadi."
+      },
+      "activity7": {
+        "time": "20:00 - 21:00",
+        "description": "Makan malam bersama di hotel."
+      },
+      "activity8": {
+        "time": "21:00 - 21:30",
+        "description": "Briefing untuk kegiatan esok hari."
+      },
+      "activity9": {
+        "time": "21:30",
+        "description": "Istirahat malam."
+      }
+    },
+    "day3": {
+      "activity1": {
+        "time": "07:00 - 08:00",
+        "description": "Sarapan pagi di hotel."
+      },
+      "activity2": {
+        "time": "08:00 - 09:30",
+        "description": "Perjalanan ke Gunung Tabor, tempat Yesus dimuliakan bersama Musa dan Elia."
+      },
+      "activity3": {
+        "time": "09:30 - 11:00",
+        "description": "Wisata di Danau Galilea dengan boat ride menggunakan kapal tradisional."
+      },
+      "activity4": {
+        "time": "11:00 - 12:00",
+        "description": "Kunjungan ke Gereja Tabgha, lokasi mukjizat 5 roti dan 2 ikan, serta St. Peter Primacy, tempat Yesus memanggil para murid."
+      },
+      "activity5": {
+        "time": "12:00 - 13:00",
+        "description": "Makan siang dengan menu khas Ikan Petrus."
+      },
+      "activity6": {
+        "time": "13:00 - 14:00",
+        "description": "Wisata ke Capernaum, kota tempat Yesus banyak melakukan mukjizat."
+      },
+      "activity7": {
+        "time": "14:00 - 15:00",
+        "description": "Kunjungan ke Mt. Beatitudes, tempat khotbah 'Sabda Bahagia'."
+      },
+      "activity8": {
+        "time": "15:00 - 16:30",
+        "description": "Mengunjungi Sungai Yordan untuk mengenang pembaptisan Yesus, kesempatan untuk momen doa pribadi."
+      },
+      "activity9": {
+        "time": "16:30 - 18:00",
+        "description": "Kembali ke hotel, waktu bebas untuk bersantai."
+      },
+      "activity10": {
+        "time": "18:00 - 19:00",
+        "description": "Makan malam bersama di hotel."
+      },
+      "activity11": {
+        "time": "19:00",
+        "description": "Istirahat malam."
+      }
+    },
+    "day4": {
+      "activity1": {
+        "time": "07:00 - 08:00",
+        "description": "Sarapan pagi di hotel."
+      },
+      "activity2": {
+        "time": "08:00 - 09:30",
+        "description": "Perjalanan ke Gereja Cana, lokasi mukjizat air menjadi anggur, dengan acara Peneguhan Janji Pernikahan bagi peserta yang menginginkannya."
+      },
+      "activity3": {
+        "time": "09:30 - 11:30",
+        "description": "Wisata di Nazareth, mengunjungi Gereja Kabar Baik, Bengkel Yusuf, dan Rumah Keluarga Kudus."
+      },
+      "activity4": {
+        "time": "11:30 - 12:30",
+        "description": "Makan siang."
+      },
+      "activity5": {
+        "time": "12:30 - 13:30",
+        "description": "Kunjungan ke Bukit Precipice, tempat Yesus ditolak penduduk Nazareth."
+      },
+      "activity6": {
+        "time": "13:30 - 16:00",
+        "description": "Perjalanan menuju Bethlehem, dengan pemberhentian di Caesarea Maritima jika waktu memungkinkan."
+      },
+      "activity7": {
+        "time": "16:00 - 18:00",
+        "description": "Check-in dan waktu bebas di Bethlehem."
+      },
+      "activity8": {
+        "time": "18:00 - 19:00",
+        "description": "Makan malam bersama."
+      },
+      "activity9": {
+        "time": "19:00",
+        "description": "Istirahat malam."
+      }
+    },
+"day5": {
+      "activity1": {
+        "time": "07:00 - 08:00",
+        "description": "Sarapan pagi di hotel."
+      },
+      "activity2": {
+        "time": "08:00 - 09:30",
+        "description": "Kunjungan ke Gereja Nativity, tempat kelahiran Yesus, serta Milk Grotto."
+      },
+      "activity3": {
+        "time": "09:30 - 10:30",
+        "description": "Mengunjungi Padang Gembala, tempat para gembala menerima kabar kelahiran Yesus."
+      },
+      "activity4": {
+        "time": "10:30 - 12:30",
+        "description": "Perjalanan ke Yerusalem, mengunjungi Bukit Zaitun dan Gereja Pater Noster."
+      },
+      "activity5": {
+        "time": "12:30 - 13:30",
+        "description": "Makan siang di restoran lokal."
+      },
+      "activity6": {
+        "time": "13:30 - 15:30",
+        "description": "Wisata di Taman Getsemani, Gereja Segala Bangsa, dan Makam Maria."
+      },
+      "activity7": {
+        "time": "15:30 - 17:00",
+        "description": "Perjalanan kembali ke Bethlehem."
+      },
+      "activity8": {
+        "time": "17:00 - 18:00",
+        "description": "Waktu bebas dan persiapan pribadi di hotel."
+      },
+      "activity9": {
+        "time": "18:00 - 19:00",
+        "description": "Makan malam bersama."
+      },
+      "activity10": {
+        "time": "19:00",
+        "description": "Istirahat malam."
+      }
+    },
+    "day6": {
+      "activity1": {
+        "time": "07:00 - 08:00",
+        "description": "Sarapan pagi di hotel."
+      },
+      "activity2": {
+        "time": "08:00 - 10:00",
+        "description": "Kunjungan ke Kota Tua Yerusalem, termasuk Gerbang Singa dan Kolam Bethesda."
+      },
+      "activity3": {
+        "time": "10:00 - 12:00",
+        "description": "Jalan Salib (Via Dolorosa) dan kunjungan ke Gereja Makam Kudus."
+      },
+      "activity4": {
+        "time": "12:00 - 13:00",
+        "description": "Makan siang."
+      },
+      "activity5": {
+        "time": "13:00 - 15:00",
+        "description": "Mengunjungi Bukit Golgota dan Tembok Ratapan."
+      },
+      "activity6": {
+        "time": "15:00 - 16:30",
+        "description": "Wisata ke Museum Holocaust (Yad Vashem)."
+      },
+      "activity7": {
+        "time": "16:30 - 18:00",
+        "description": "Kembali ke hotel di Bethlehem."
+      },
+      "activity8": {
+        "time": "18:00 - 19:00",
+        "description": "Makan malam bersama."
+      },
+      "activity9": {
+        "time": "19:00",
+        "description": "Istirahat malam."
+      }
+    },
+    "day7": {
+      "activity1": {
+        "time": "07:00 - 08:00",
+        "description": "Sarapan pagi di hotel."
+      },
+      "activity2": {
+        "time": "08:00 - 10:30",
+        "description": "Wisata ke Qumran, tempat penemuan gulungan Laut Mati."
+      },
+      "activity3": {
+        "time": "10:30 - 12:30",
+        "description": "Perjalanan ke Laut Mati, waktu bebas untuk bersantai dan berenang."
+      },
+      "activity4": {
+        "time": "12:30 - 13:30",
+        "description": "Makan siang."
+      },
+      "activity5": {
+        "time": "13:30 - 15:00",
+        "description": "Perjalanan kembali ke Yerusalem, mengunjungi Gunung Zion dan Gereja St. Peter Gallicantu."
+      },
+      "activity6": {
+        "time": "15:00 - 16:30",
+        "description": "Wisata ke Ruang Perjamuan Terakhir dan Makam Raja Daud."
+      },
+      "activity7": {
+        "time": "16:30 - 18:00",
+        "description": "Kembali ke Bethlehem untuk waktu bebas."
+      },
+      "activity8": {
+        "time": "18:00 - 19:00",
+        "description": "Makan malam bersama."
+      },
+      "activity9": {
+        "time": "19:00",
+        "description": "Istirahat malam."
+      }
+    },
+    "day8": {
+      "activity1": {
+        "time": "07:00 - 08:00",
+        "description": "Sarapan pagi di hotel."
+      },
+      "activity2": {
+        "time": "08:00 - 10:00",
+        "description": "Kunjungan ke Hebron, tempat Makam Para Leluhur (Patriarchs)."
+      },
+      "activity3": {
+        "time": "10:00 - 12:30",
+        "description": "Wisata ke Beer Sheva, tempat sumur Abraham."
+      },
+      "activity4": {
+        "time": "12:30 - 13:30",
+        "description": "Makan siang."
+      },
+      "activity5": {
+        "time": "13:30 - 15:00",
+        "description": "Kembali ke Bethlehem, waktu untuk belanja oleh-oleh."
+      },
+      "activity6": {
+        "time": "15:00 - 16:30",
+        "description": "Waktu bebas dan persiapan untuk keberangkatan."
+      },
+      "activity7": {
+        "time": "16:30 - 18:00",
+        "description": "Makan malam terakhir bersama."
+      },
+      "activity8": {
+        "time": "18:00 - 19:00",
+        "description": "Acara perpisahan dan doa bersama."
+      },
+      "activity9": {
+        "time": "19:00",
+        "description": "Istirahat malam."
+      }
+    },
+    "day9": {
+      "activity1": {
+        "time": "03:00 - 05:00",
+        "description": "Perjalanan ke Bandara Ben Gurion."
+      },
+      "activity2": {
+        "time": "05:00 - 07:00",
+        "description": "Proses check-in dan boarding."
+      },
+      "activity3": {
+        "time": "07:00 - 17:00 (waktu lokal)",
+        "description": "Penerbangan kembali ke Indonesia dengan transit."
+      },
+      "activity4": {
+        "time": "17:00 - 19:00 (waktu Jakarta)",
+        "description": "Tiba di Bandara Soekarno-Hatta, akhir perjalanan."
+      }
+    }
+  },
+  "activities": {
+    "day1": {
+      "title": "DAY 1: JAKARTA",
+      "description": "3 jam sebelum keberangkatan, Anda diharapkan sudah berkumpul di Terminal International 3 Bandara Soekarno-Hatta untuk bersama-sama berangkat menuju TEL AVIV, ISRAEL."
+    },
+    "day2": {
+      "title": "DAY 2: TEL AVIV – HAIFA – TIBERIAS",
+      "description": "Siang ini Anda tiba di Bandara Ben Gurion, TEL AVIV. Setelah makan siang, perjalanan dilanjutkan menuju TIBERIAS dengan melewati kota HAIFA, sebuah kota pelabuhan yang sangat indah di Israel. Di sana, Anda dapat melihat BAHAI GARDEN, taman termahal di dunia yang masuk warisan UNESCO dan STELLA MARIS tempat Nabi Elia bersembunyi setelah mengalahkan 450 nabi – nabi Baal (1 Raj 16:20). Bermalam di TIBERIAS."
+    },
+    "day3": {
+      "title": "DAY 3: TIBERIAS FULL DAY TOUR",
+      "description": "Pagi ini, Anda menuju GUNUNG TABOR, tempat Yesus dipermuliakan bersama Musa dan Elia (Mat. 17:1-2). Dilanjutkan dengan BOAT RIDE yakni mengarungi DANAU GALILEA dengan kapal seperti pada jaman Tuhan Yesus, lalu ke GEREJA TABGHA, tempat mukjizat Yesus memberi makan 5,000 orang dengan 5 roti dan 2 ikan (Yoh. 6:1-15), ST. PETER PRIMACY, tempat pengutusan para murid yang tertulis dalam Yoh. 21:1-24. Setelah makan siang dengan menu IKAN PETRUS, Anda menuju kota CAPERNAUM, tempat Tuhan Yesus banyak melakukan mukjizat dan MT. BEATITUDES, tempat Tuhan Yesus menyampaikan “Delapan Sabda Bahagia” (Mat. 5:1-12). Sore harinya, mengunjungi SUNGAI YORDAN untuk mengenang pembaptisan Yesus (Mat 3:13-17). Bermalam di TIBERIAS."
+    },
+    "day4": {
+      "title": "DAY 4: TIBERIAS – CANA – NAZARETH – BETHLEHEM",
+      "description": "Pagi ini mengawali perziarahan menuju ke GEREJA CANA tempat mujizat Tuhan Yesus yang pertama, mengubah air menjadi anggur (Yoh.2:1-11). Di sini Anda dapat mengikuti acara ‘PENEGUHAN JANJI PERNIKAHAN’ bagi yang menginginkannya. Dilanjutkan menuju NAZARET untuk mengunjungi GEREJA KABAR BAIK, BENGKEL YUSUF, serta RUMAH KELUARGA KUDUS. Kemudian diantar menuju ke BUKIT PRECIPICE, tempat Penolakan Yesus yang dijelaskan dalam Injil Lukas (Luk.4:29–30). Apabila waktu memungkinkan Anda akan diajak untuk mengunjungi CAESAREA MARITIMA. Bermalam di BETHLEHEM."
+    },
+    "day5": {
+      "title": "DAY 5: JERUSALEM – EIN KAREM – DEAD SEA – JERICH",
+      "description": "Pagi ini Anda akan diajak mengunjungi EIN KAREM, tempat dimana terjadinya cerita pada Lukas 1:39–56. Kemudian mengunjungi MONASTERY OF THE CROSS, sebuah biara yang diyakini adalah tempat asli dimana salib suci Tuhan Yesus dibuat. Lalu ke GEREJA LAZARUS, tempat dimana Lazarus dimakamkan. Lalu perjalanan dilanjutkan menuju QUMRAN untuk melihat gua-gua tempat salinan gulungan Alkitab ditemukan. Kemudian menuju LAUT MATI untuk berenang terapung. Lalu ke kota YERIKHO, untuk melihat BUKIT PENCOBAAN (Mat 4:1) dan POHON ARA ZACHEUS, tempat dimana Zacheus Pemungut Cukai bertemu Yesus. Bermalam di BETHLEHEM."
+    },
+    "day6": {
+      "title": "DAY 6: BETHLEHEM – JERUSALEM",
+      "description": "Pagi ini Anda ziarah ke Yerusalem dan Betlehem. Diawali dengan menuju BUKIT ZAITUN untuk mengunjungi ASCENTION CHAPEL (Kapel Kenaikan Tuhan Yesus), PATER NOSTER CHURCH, tempat Tuhan Yesus mengajarkan Doa Bapa Kami (Mat.6:5-15), serta ke GEREJA DOMINUS FLEVIT, tempat Tuhan Yesus menangisi kota Yerusalem (Luk.21:20-24). Dengan melewati PALM SUNDAY, Anda akan tiba di TAMAN GETHSEMANE, tempat Tuhan Yesus berdoa sebelum diadili (Mat.26:30) & serta mengunjungi GEREJA SEGALA BANGSA di GETHSEMANE. Kemudian menuju BETHLEHEM untuk makan siang dan mengunjungi NATIVITY CHURCH tempat Tuhan Yesus dilahirkan, PADANG GEMBALA tempat para malaikat mengabarkan kelahiran Tuhan Yesus (Luk.2:8-12). Bermalam di BETHLEHEM."
+    },
+    "day7": {
+      "title": "DAY 7: JERUSALEM FULL DAY TOUR",
+      "description": "Hari ini Anda diajak menuju BUKIT MORIA untuk mengunjungi DOME OF THE ROCK dan melewati GERBANG EMAS, serta masuk ke KOTA TUA YERUSALEM untuk mengunjungi GEREJA ST. ANNA & KOLAM BETHESDA tempat Tuhan Yesus menyembuhkan orang sakit pada hari Sabat (Yoh 5:7-9). Dilanjutkan dengan napak tilas sengsara Tuhan Yesus di VIA DOLOROSA/ JALAN SALIB sampai ke BUKIT GOLGOTHA tempat Tuhan Yesus disalibkan, dan ke HOLY SEPULCHRE (MAKAM KUDUS). Selanjutnya Anda diajak mengunjungi GARDEN TOMB yang merupakan Taman Yusuf Arimatea untuk mengikuti Perjamuan Kudus. Lalu menuju BUKIT SION di YERUSALEM untuk mengunjungi GEREJA ST. PETER IN GALICANTU/ Gereja Ayam Berkokok, tempat Tuhan Yesus dipenjara (Mat26:34), serta mengunjungi LAST SUPPER ROOM, Ruang Perjamuan Terakhir dan DAVID TOMB. Bermalam di BETHLEHEM."
+    },
+    "day8": {
+      "title": "DAY 8: YERUSALEM – BEN GURION AIRPORT",
+      "description": "Pagi ini Anda diajak mengunjungi TEMBOK RATAPAN, tempat paling suci bagi umat Yahudi. Lalu mengunjungi TOWER OF DAVID, sebuah benteng berusia 3000 tahun yang dibangun oleh Raja Daud. Setelah itu Anda akan diantar menuju Bandara Ben Gurion, Tel Aviv untuk perjalanan pulang menuju Jakarta. Sayonara ISRAEL."
+    },
+    "day9": {
+      "title": "DAY 9: KEDATANGAN DI JAKARTA",
+      "description": "Hari ini Anda akan tiba di tanah air dengan membawa sejuta kenangan yang manis dan indah. Semoga perjalanan kali ini membawa arti dan semakin memperkuat iman Anda. Terima kasih atas partisipasi Anda dan Sampai Jumpa. Tuhan Memberkati."
+    }
+  },
+  "songs": {
+    "song1": {
+      "title": "Kunyanyi Haleluya",
+      "creator": "Nicholas Sarasta",
+      "lyrics": [
+        "Bapa kudatang menyembah-Mu di sini",
+        "Ku percaya Kau ada bagiku",
+        "Bapa kudatang menyembah-Mu Tuhan",
+        "(Menyembah-Mu disini)",
+        "Ku percaya Kau ada bagiku",
+        "Tak usah ku takut",
+        "S'bab Kau sertaku",
+        "Tak usah ku bimbang",
+        "Kau di dalamku",
+        "Tak usah ku cemas",
+        "Kau penghiburku",
+        "Saat ku lemah Kau kuatku",
+        "Kunyanyi Haleluya",
+        "Kunyanyi Haleluya",
+        "Sungguh Kau hebat",
+        "Ajaib perkasa",
+        "Perbuatan-Mu Tuhan",
+        "Haleluya",
+        "Kunyanyi Haleluya",
+        "Haleluya",
+        "Kunyanyi Haleluya",
+        "Sungguh Kau hebat",
+        "Ajaib perkasa",
+        "Perbuatan-Mu di hidupku Tuhan",
+        "Di hidupku",
+        "Engkau ajaib Tuhan",
+        "Engkau ajaib",
+        "Perbuatan-Mu ajaib",
+        "Haleluya",
+        "Tak usah ku takut",
+        "S'bab Kau sertaku",
+        "Tak usah ku bimbang",
+        "Kau di dalamku",
+        "Tak usah ku cemas",
+        "Kau penghiburku",
+        "Saat ku lemah Kau kuatku",
+        "Kunyanyi Haleluya",
+        "Kunyanyi Haleluya",
+        "Sungguh Kau hebat",
+        "Ajaib perkasa",
+        "Perbuatan-Mu",
+        "Kunyanyi Haleluya",
+        "Kunyanyi Haleluya",
+        "Sungguh Kau hebat",
+        "Ajaib perkasa",
+        "Perbuatan-Mu",
+        "Kunyanyi Haleluya",
+        "Kunyanyi Haleluya",
+        "Sungguh Kau hebat",
+        "Ajaib dan perkasa",
+        "Perbuatan-Mu di hidupku",
+        "Kami menyembah-Mu Tuhan"
+      ]
+    },
+   "song2": {
+      "title": "Dia Lahir untuk Kami",
+      "creator": "Victor Hutabarat",
+      "lyrics": [
+        "Dia lahir untuk kami,",
+        "Dia mati bagi kami,",
+        "Dia bangkit bagi kami semua",
+        "Dia itu Tuhan kami,",
+        "Dia itu Allah kami",
+        "Sang Penebus Juru Selamat Dunia",
+        "Dia itu Tuhan kami,",
+        "Dia itu Allah kami",
+        "Dia Raja di atas segala Raja",
+        "Dia lahir untuk kami,",
+        "Dia mati bagi kami,",
+        "Dia bangkit bagi kami semua",
+        "Dia itu Tuhan kami,",
+        "Dia itu Allah kami",
+        "Sang Penebus Juru Selamat Dunia",
+        "Itulah Firman Allah",
+        "Yang turun ke bumi",
+        "Yang jadi sama dengan manusia",
+        "Dia itu Tuhan kami,",
+        "Dia itu Allah kami",
+        "Dia Raja di atas segala Raja",
+        "Itulah Firman Allah",
+        "Yang turun ke bumi",
+        "Yang jadi sama dengan manusia",
+        "Dia itu Tuhan kami,",
+        "Dia itu Allah kami",
+        "Dia Raja di atas segala Raja",
+        "Sang Penebus Juru Selamat Dunia",
+        "Dia Raja di atas segala Raja"
+      ]
+    },
+    "song3": {
+      "title": "Karya Terbesar",
+      "creator": "Sari Simorangkir",
+      "lyrics": [
+        "Kasih yang terindah",
+        "Hati yang mulia",
+        "Hanya kutemukan di dalam-Mu",
+        "Yesusku",
+        "Pujian dari hatiku",
+        "Selalu di setiap waktuku",
+        "Tiada pernah berubah",
+        "Kasihku",
+        "Karya terbesar dalam hidupku",
+        "Pengorbanan-Mu yang s'lamatkanku",
+        "Engkaulah harta yang tak ternilai",
+        "Yang kumiliki dan kuhargai",
+        "Yesus, Engkau kukagumi",
+        "Kasih yang terindah",
+        "Hati yang mulia",
+        "Hanya kutemukan di dalam-Mu",
+        "Yesusku",
+        "Pujian dari hatiku",
+        "Selalu di setiap waktuku",
+        "Tiada pernah berubah",
+        "Kasihku kepada-Mu",
+        "Karya terbesar dalam hidupku",
+        "Pengorbanan-Mu yang s'lamatkanku",
+        "Engkaulah harta yang tak ternilai",
+        "Yang kumiliki dan kuhargai",
+        "Yesus, Engkau kukagumi",
+        "Kematian-Mu (kematian-Mu)",
+        "Menghidupkanku (menghidupkanku)",
+        "Ho-wo-oh-wo-wo-yeay (wo-yeay)",
+        "Dan kupastikan pengorbanan-Mu",
+        "Tak akan pernah sia-sia",
+        "Ho-uh-oh-hu-oh-uh-oh",
+        "Hey-yeah (yeah-yeah-yeah, wo-oh)",
+        "karya terbesar",
+        "Karya terbesar",
+        "(Pengorbanan-Mu yang s'lamatkanku) ho-uh-oh-oh",
+        "S'lamatkanku",
+        "s'lamatkanku, uh-uh-uh",
+        "(Yang kumiliki dan kuhargai)",
+        "Yesus, Engkau kukagumi",
+        "Hm-mm (ho-oh-oh-uh)",
+        "Yeay-yeah"
+      ]
+    },
+    "song4": {
+      "title": "Selamat Pagi Bapa",
+      "creator": "Natashia Nikita",
+      "lyrics": [
+        "Selamat pagi Bapa",
+        "Selamat pagi Yesus",
+        "Selamat pagi Roh Kudus",
+        "Terima kasih atas anugrahmu",
+        "Semalam tlah berlalu",
+        "Ku memuji ku bersyukur",
+        "Memuliakan namamu",
+        "Allah bapa putra Roh Kudus trima kasih",
+        "Selamat pagi Bapa",
+        "Selamat pagi Yesus",
+        "Slamat pagi Roh Kudus",
+        "Trima kasih atas anugrahmu",
+        "Semalam tlah berlalu",
+        "Ku memuji ku bersyukur",
+        "Memuliakan namamu",
+        "Allah bapa putra Roh Kudus trima kasih",
+        "Selamat pagi Bapa",
+        "Selamat pagi Yesus",
+        "Slamat pagi Roh Kudus",
+        "Trima kasih atas anugrahmu",
+        "Semalam tlah berlalu",
+        "Ku memuji ku bersyukur",
+        "Memuliakan namamu",
+        "Allah bapa putra Roh Kudus trima kasih",
+        "Allah bapa putra Roh Kudus trima kasih"
+      ]
+    },
+    "song5": {
+      "title": "Jangan Menyerah",
+      "creator": "Edward Chen",
+      "lyrics": [
+        "Tuhan tak pernah janji,",
+        "langit selalu biru.",
+        "Tetapi Dia berjanji,",
+        "selalu menyertai.",
+        "Tuhan tak pernah janji,",
+        "jalan selalu rata.",
+        "Tetapi Dia berjanji,",
+        "berikan kekuatan.",
+        "Jangan pernah menyerah,",
+        "jangan berputus asa.",
+        "Mujizat Tuhan ada,",
+        "saat hati menyembah.",
+        "Jangan pernah menyerah,",
+        "jangan berputus asa.",
+        "Mujizat Tuhan ada,",
+        "bagi yang setia dan percaya.",
+        "Mujizat Tuhan ada,",
+        "bagi yang setia dan percaya."
+      ]
+    }
+  }
+}

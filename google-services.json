@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "356963942376",
+    "firebase_url": "https://tourrohani-25360-default-rtdb.firebaseio.com",
+    "project_id": "tourrohani-25360",
+    "storage_bucket": "tourrohani-25360.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356963942376:android:3a04d140a1cc0a0f182e5d",
+        "android_client_info": {
+          "package_name": "com.example.proauthppb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyeA563mAsjNfLWUc5IZuiD9nkUyp50cY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356963942376:android:8d44e577764f3fcc182e5d",
+        "android_client_info": {
+          "package_name": "com.example.tourrohani"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyeA563mAsjNfLWUc5IZuiD9nkUyp50cY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356963942376:android:4ff29f2b27e8486d182e5d",
+        "android_client_info": {
+          "package_name": "com.example.tourrohanii"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyeA563mAsjNfLWUc5IZuiD9nkUyp50cY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
