@@ -83,7 +83,7 @@ Untuk mengatasi tantangan ini, Buku Tour Rohani hadir sebagai solusi inovatif. D
 1. **Clone Repository:**  
    - Unduh source code dari repository GitHub ini dengan perintah berikut:  
      ```bash  
-     git clone https://github.com/andrsginting/buku-tour-rohani.git  
+     git clone https://github.com/andrsginting/Religion-Tour-App.git  
      cd buku-tour-rohani  
      ```  
 
